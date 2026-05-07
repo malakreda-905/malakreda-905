@@ -26,6 +26,22 @@
 
 ---
 
+### 🎯 Core Expertise
+
+![OOP](https://img.shields.io/badge/OOP-FF8C00?style=for-the-badge&logoColor=white)
+
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF8C00?style=for-the-badge&logoColor=white)
+
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF69B4?style=for-the-badge&logoColor=white)
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-228B22?style=for-the-badge&logoColor=white)
+
+![Algorithms](https://img.shields.io/badge/Algorithms-800080?style=for-the-badge&logoColor=white)
+
+![Databases](https://img.shields.io/badge/Databases-FF6600?style=for-the-badge&logoColor=white)
+
+---
+
 ### 🌐 Connect with me
 
 <p align="center">
