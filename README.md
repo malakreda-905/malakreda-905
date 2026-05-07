@@ -10,9 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malakreda-905&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
