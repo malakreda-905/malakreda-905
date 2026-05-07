@@ -21,7 +21,7 @@
 ### 🛠️ Top Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,cs,css,git,github,js,java,mysql,notion,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,css,git,github,js,java,mysql,notion,vscode&perline=12" />
 </p>
 
 ---
