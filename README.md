@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+  <a href="https://docs.google.com/document/d/1cpfRIVZ-Nre16spFQ0iqKzVMbFhvj-cauAgu0M4gD20/edit?usp=sharing"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
