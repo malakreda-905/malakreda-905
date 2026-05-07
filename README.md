@@ -18,7 +18,7 @@ AI & Software Engineering Student
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a>
+<a href="www.linkedin.com/in/malakreda">LinkedIn</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ AI & Software Engineering Student
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,django,mysql,html,css,javascript" />
 </p>
 
 ---
@@ -34,5 +34,5 @@ AI & Software Engineering Student
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malakreda-905&show_icons=true&theme=tokyonight"/>
 </p>
