@@ -30,7 +30,7 @@
 
 ![OOP](https://img.shields.io/badge/OOP-FF8C00?style=for-the-badge&logoColor=white)
 
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF8C00?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4682B4?style=for-the-badge&logoColor=white)
 
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF69B4?style=for-the-badge&logoColor=white)
 
