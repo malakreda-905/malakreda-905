@@ -18,7 +18,7 @@ AI & Software Engineering Student
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/malakreda">LinkedIn</a>
+<a href="https://www.linkedin.com/in/malakreda/">LinkedIn</a>
 </p>
 
 ---
