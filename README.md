@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Malak Reda 👋</h1>
 
+<!-- About-->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&center=true&width=435&lines=Junior+CS+Student+%40+Cairo+University;AI+%26+ML+Self-learner;Problem+Solver" alt="Typing SVG" />
 </h3>
@@ -8,13 +9,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Check+my+Repositories;Contact+me+for+any+queries" alt="Typing SVG" />
 </h3>
 
+<!-- Profile view -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malakreda-905&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<!-- Resume -->
 <p align="center">
   <a href="https://docs.google.com/document/d/1cpfRIVZ-Nre16spFQ0iqKzVMbFhvj-cauAgu0M4gD20/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
-</p>
+</p> 
 
 ---
 
@@ -39,6 +42,8 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-800080?style=for-the-badge&logoColor=white)
 
 ![Databases](https://img.shields.io/badge/Databases-FF6600?style=for-the-badge&logoColor=white)
+
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-FFBF00?style=for-the-badge&logoColor=white)
 
 ---
 
