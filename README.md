@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/AI_Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white" alt="AI Resume"/>
   </a>
 </p>
+
 ---
 
 ### 🛠️ Top Technical Skills
