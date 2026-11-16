@@ -17,9 +17,10 @@
 <!-- Resume -->
 <p align="center">
   <a href="https://docs.google.com/document/d/1cpfRIVZ-Nre16spFQ0iqKzVMbFhvj-cauAgu0M4gD20/edit?usp=sharing">SW Resume</a>
-  <a href="https://docs.google.com/document/d/1TLaxZTR1C3usColJwFeMJIegC7fwb5KkIZ4I5kP_HSY/edit?usp=sharing">AI Resume</a>
 </p> 
-
+<p align="center">
+    <a href="https://docs.google.com/document/d/1TLaxZTR1C3usColJwFeMJIegC7fwb5KkIZ4I5kP_HSY/edit?usp=sharing">AI Resume</a>
+</p>
 ---
 
 ### 🛠️ Top Technical Skills
