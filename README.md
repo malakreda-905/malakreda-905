@@ -16,10 +16,12 @@
 
 <!-- Resume -->
 <p align="center">
-  <a href="https://docs.google.com/document/d/1cpfRIVZ-Nre16spFQ0iqKzVMbFhvj-cauAgu0M4gD20/edit?usp=sharing">SW Resume</a>
-</p> 
-<p align="center">
-    <a href="https://docs.google.com/document/d/1TLaxZTR1C3usColJwFeMJIegC7fwb5KkIZ4I5kP_HSY/edit?usp=sharing">AI Resume</a>
+  <a href="https://docs.google.com/document/d/1cpfRIVZ-Nre16spFQ0iqKzVMbFhvj-cauAgu0M4gD20/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Software_Engineering_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="SW Resume"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1TLaxZTR1C3usColJwFeMJIegC7fwb5KkIZ4I5kP_HSY/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/AI_Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white" alt="AI Resume"/>
+  </a>
 </p>
 ---
 
